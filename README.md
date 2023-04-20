@@ -16,4 +16,3 @@ This is my 2nd Front End Mentors Project. It was a bit of a challenge compared w
 ## Lessons
 1. <span style="color: hsl(90 70% 70%)">**Markdown Styling**</span> I learned that you can use html and inline CSS within Markdown. I found this out while trying to center my image.
 2. <span style="color: hsl(90 70% 70%)">**Reinforcing Flexbox**</span> I helped reinforce basic layout (`Flexbox`) and some edge cases such as when it won't align of the parent container not being big enough
-3. <span style="color: hsl(90 70% 70%)">**Overlapping Content**</span>
